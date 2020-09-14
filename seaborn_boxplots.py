@@ -25,6 +25,7 @@ df_weights_3 = pd.DataFrame(d_weights_3)
 merged_df = pd.concat([df_weights_1, df_weights_2, df_weights_3], ignore_index=True, axis=1)
 merged_df.columns = ["group_1", "group_2", "group_3"]  # assign names to columns
 
+# create boxplots
 _ = sns.boxplot(data=merged_df)
 # set ylabel
 plt.ylabel("[kg]", fontsize=12)
