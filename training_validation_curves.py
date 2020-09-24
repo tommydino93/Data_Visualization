@@ -19,7 +19,7 @@ fig, ax1 = plt.subplots()  # create figure
 color_1 = 'tab:blue'  # choose color
 ax1.set_xlabel('Epochs')  # set label for x axis
 ax1.xaxis.set_major_locator(MaxNLocator(integer=True))  # only keep integers in x axis
-ax1.set_ylabel('Dice')  # set label for y axis
+ax1.set_ylabel('Accuracy')  # set label for y axis
 ax1.plot(x_axis, train_accuracy, color=color_1, label='Train acc')  # plot train accuracy
 ax1.plot(x_axis, val_accuracy, "--", color=color_1, label='Val acc')  # plot validation accuracy with dashed line
 ax1.tick_params(axis='y', labelcolor=color_1)  # set color for ticks in y axis
