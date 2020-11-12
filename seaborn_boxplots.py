@@ -11,7 +11,7 @@ weights_group_1 = np.random.uniform(low=50, high=90, size=10)  # kg
 weights_group_2 = np.random.uniform(low=50, high=90, size=10)  # kg
 weights_group_3 = np.random.uniform(low=50, high=90, size=10)  # kg
 
-# convert lists to dictionaries
+# convert np.arrays to dictionaries
 d_weights_1 = {"weights_1": weights_group_1}
 d_weights_2 = {"weights_2": weights_group_2}
 d_weights_3 = {"weights_3": weights_group_3}
