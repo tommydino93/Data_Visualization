@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 np.random.seed(123)  # set random seed for reproducibility
 
 # we have three groups of individuals and we want to compare their weights
-
 weights_group_1 = np.random.uniform(low=50, high=90, size=10)  # kg
 weights_group_2 = np.random.uniform(low=50, high=90, size=10)  # kg
 weights_group_3 = np.random.uniform(low=50, high=90, size=10)  # kg
