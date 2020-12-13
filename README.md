@@ -1,5 +1,5 @@
 # Data_Visualization
-Some data visualization examples in python
+Data visualization examples in python. Each image below is created from a corresponding python script in the directory.
 
 ![Seaborn Boxplots](https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_boxplots.png)
 
