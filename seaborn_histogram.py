@@ -13,9 +13,9 @@ for i in range(200):
 # plot histogram of ages
 ax = sns.histplot(random_ages)
 # set xlabel
-ax.set_xlabel("count", fontsize=12)
+ax.set_xlabel("age", fontsize=12)
 # set ylabel
-ax.set_ylabel("age", fontsize=12)
+ax.set_ylabel("count", fontsize=12)
 # set bold title
 ax.set_title("Age histogram", weight="bold", fontsize=15)
 plt.show()
