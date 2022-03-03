@@ -1,10 +1,18 @@
 # Data_Visualization
 Data visualization examples in python. Each image below is created from a corresponding python script in the directory.
 
-![Colored_Barplots](https://github.com/tommydino93/Data_Visualization/blob/master/images/colored_barplots.png)
 
-![Seaborn Boxplots](https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_boxplots.png)
+<p float="left">
+  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/colored_barplots.png" width="500" />
+  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_boxplots.png" width="500" /> 
+</p>
 
-![Seaborn Histogram](https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_hist.png)
+<p float="left">
+  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_hist.png" width="500" />
+  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/training_validation_curves.png" width="500" /> 
+</p>
 
-![Train_Val_Curves](https://github.com/tommydino93/Data_Visualization/blob/master/images/training_validation_curves.png)
+<p float="left">
+  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_hist.png" width="500" />
+  <img src="" width="500" /> 
+</p>
