@@ -12,7 +12,3 @@ Data visualization examples in python. Each image below is created from a corres
   <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/training_validation_curves.png" width="500" /> 
 </p>
 
-<p float="left">
-  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/seaborn_hist.png" width="500" />
-  <img src="" width="500" /> 
-</p>
