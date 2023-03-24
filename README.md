@@ -14,4 +14,5 @@ Data visualization examples in python. Each image below is created from a corres
 
 <p float="left">
   <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/hist_with_fitting_curve.png" width="500" />
+  <img src="https://github.com/tommydino93/Data_Visualization/blob/master/images/bee_swarm_and_boxplot.png" width="500" />
 </p>
